@@ -19,3 +19,7 @@ OPENAI_API_KEY=ta_clé_ici
 
 ## Lancement
 streamlit run app.py
+
+## Démonstration
+<img width="1907" height="888" alt="image" src="https://github.com/user-attachments/assets/2372de77-6498-41ea-a456-15eddc55e93f" />
+
